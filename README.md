@@ -4,10 +4,5 @@ kit for quality service
 
 ## RunTime Performance
 
-including：
-FPS
-CPU
-Memory
-Network Speed
-Network Flow
+FPS，CPU，Memory Usage，Network Speed，Network Flow
 
